@@ -1,0 +1,6 @@
+[submodule "seed-bum-retreiver"]
+	path = seed-bum-retreiver
+	url = https://github.com/noahkohrs/seed-bum-retreiver
+[submodule "seed-bum-frontend"]
+	path = seed-bum-frontend
+	url = https://github.com/flechonn/seed-bum-frontend
